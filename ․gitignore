@@ -1,0 +1,23 @@
+# Build & CMake generated folders
+out/
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.vcxproj*
+*.sln
+
+# Compiled binaries
+*.exe
+*.dll
+*.obj
+*.o
+*.lib
+*.a

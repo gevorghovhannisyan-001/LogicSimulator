@@ -1,0 +1,14 @@
+out/
+build/
+.vs/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.user
+*.suo
+*.exe
+*.dll
+*.obj
+*.o
+*.lib
+*.a
